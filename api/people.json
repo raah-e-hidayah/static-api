@@ -1,0 +1,498 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "images/people/qari-ahsan-mohsin.png",
+    "name": {
+      "en": "Qari Ahsan Mohsin",
+      "ur": "قاری احسن محسن",
+      "roman": "Qari Ahsan Mohsin"
+    },
+    "description": {
+      "en": "Indian Qur'an reciter and naat khwan, also described by his official site as a Hafiz, Islamic scholar, philanthropist, and educator. The site says he lost his sight at age four and later established educational work in Kutesra, Muzaffarnagar, Uttar Pradesh.",
+      "ur": "ہندوستانی قاری اور نعت خواں؛ ان کی سرکاری ویب سائٹ انہیں حافظ، عالمِ دین، فلاحی کارکن اور معلم بھی بتاتی ہے۔ ویب سائٹ کے مطابق انہوں نے چار سال کی عمر میں بینائی کھو دی اور بعد میں کُٹیسرا، مظفرنگر، اتر پردیش میں تعلیمی کام قائم کیا۔",
+      "roman": "Hindustani qari aur naat khwan; un ki sarkari website unhein Hafiz, alim-e-deen, falahi karkun aur muallim bhi batati hai. Website ke mutabiq unhon ne chaar saal ki umr mein beenai kho di aur baad mein Kutesra, Muzaffarnagar, Uttar Pradesh mein taleemi kaam qaim kiya."
+    },
+    "location": {
+      "en": "Kutesra, Muzaffarnagar, Uttar Pradesh, India",
+      "ur": "کُٹیسرا، مظفرنگر، اتر پردیش، بھارت",
+      "roman": "Kutesra, Muzaffarnagar, Uttar Pradesh, Bharat"
+    },
+    "occupation": {
+      "en": "Qur'an reciter, naat khwan, educator",
+      "ur": "قاری، نعت خواں، معلم",
+      "roman": "Qari, naat khwan, muallim"
+    },
+    "urls": {
+      "website": "https://qariahsanmohsinofficial.com/",
+      "facebook": "",
+      "youtube": "",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  {
+    "id": 2,
+    "imageUrl": "images/people/qari-jamshed-jauhar.png",
+    "name": {
+      "en": "Qari Jamshed Jauhar",
+      "ur": "قاری جمشید جوہر",
+      "roman": "Qari Jamshed Jauhar"
+    },
+    "description": {
+      "en": "Indian naat khwan and poet. Public recordings and event listings identify him as a performer of Urdu devotional poetry; reliable biographical details were not found.",
+      "ur": "ہندوستانی نعت خواں اور شاعر۔ عوامی ریکارڈنگز اور پروگراموں میں انہیں اردو نعتیہ کلام کے فنکار کے طور پر شناخت کیا گیا ہے؛ قابلِ اعتماد سوانحی تفصیلات دستیاب نہیں ہوئیں۔",
+      "roman": "Hindustani naat khwan aur shair. Awami recordings aur programs mein unhein Urdu naatiya kalaam ke funkar ke taur par pehchana gaya hai; qabil-e-aitemad sawanhi tafseelat dastiyab nahin huin."
+    },
+    "location": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "occupation": {
+      "en": "Naat khwan, poet",
+      "ur": "نعت خواں، شاعر",
+      "roman": "Naat khwan, shair"
+    },
+    "urls": {
+      "website": "",
+      "facebook": "",
+      "youtube": "https://www.youtube.com/watch?v=X_Ln9zPOoL8",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  {
+    "id": 3,
+    "imageUrl": "images/people/mufti-tariq-jameel-kannauji.png",
+    "name": {
+      "en": "Mufti Tariq Jameel Kannauji",
+      "ur": "مفتی طارق جمیل قنوجی",
+      "roman": "Mufti Tariq Jameel Kannauji"
+    },
+    "description": {
+      "en": "Indian Islamic scholar and naat khwan. A public YouTube channel under his name publishes sermons and devotional recitations; further biographical details were not reliably confirmed.",
+      "ur": "ہندوستانی عالمِ دین اور نعت خواں۔ ان کے نام سے موجود عوامی یوٹیوب چینل پر بیانات اور نعتیہ کلام شائع ہوتے ہیں؛ مزید سوانحی معلومات کی قابلِ اعتماد تصدیق نہیں ہو سکی۔",
+      "roman": "Hindustani alim-e-deen aur naat khwan. Un ke naam se maujood awami YouTube channel par bayanat aur naatiya kalaam shaya hote hain; mazeed sawanhi maloomat ki qabil-e-aitemad tasdeeq nahin ho saki."
+    },
+    "location": {
+      "en": "Kannauj, Uttar Pradesh, India (byname)",
+      "ur": "قنوج، اتر پردیش، بھارت (نسبت کے مطابق)",
+      "roman": "Kannauj, Uttar Pradesh, Bharat (nisbat ke mutabiq)"
+    },
+    "occupation": {
+      "en": "Islamic scholar, naat khwan",
+      "ur": "عالمِ دین، نعت خواں",
+      "roman": "Alim-e-deen, naat khwan"
+    },
+    "urls": {
+      "website": "",
+      "facebook": "",
+      "youtube": "https://www.youtube.com/channel/UC7UQXlJ_tzFop63durkezHQ",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  {
+    "id": 4,
+    "imageUrl": "images/people/qari-abdur-rabb-kandakurthi.png",
+    "name": {
+      "en": "Qari Abdur Rabb Kandakurthi",
+      "ur": "قاری عبد الرب کنداکرتھی",
+      "roman": "Qari Abdur Rabb Kandakurthi"
+    },
+    "description": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "location": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "occupation": {
+      "en": "Qari",
+      "ur": "قاری",
+      "roman": "Qari"
+    },
+    "urls": {
+      "website": "",
+      "facebook": "",
+      "youtube": "",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  {
+    "id": 5,
+    "imageUrl": "images/people/qari-affan.png",
+    "name": {
+      "en": "Qari Affan",
+      "ur": "قاری عفان",
+      "roman": "Qari Affan"
+    },
+    "description": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "location": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "occupation": {
+      "en": "Qari",
+      "ur": "قاری",
+      "roman": "Qari"
+    },
+    "urls": {
+      "website": "",
+      "facebook": "",
+      "youtube": "",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  {
+    "id": 6,
+    "imageUrl": "images/people/moulana-khaja-moinuddin-gulbarga.png",
+    "name": {
+      "en": "Moulana Khaja Moinuddin Gulbarga",
+      "ur": "مولانا خواجہ معین الدین گلبرگہ",
+      "roman": "Moulana Khaja Moinuddin Gulbarga"
+    },
+    "description": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "location": {
+      "en": "Gulbarga, Karnataka, India (byname)",
+      "ur": "گلبرگہ، کرناٹک، بھارت (نسبت کے مطابق)",
+      "roman": "Gulbarga, Karnataka, India (byname)"
+    },
+    "occupation": {
+      "en": "Islamic scholar",
+      "ur": "عالمِ دین",
+      "roman": "Islamic scholar"
+    },
+    "urls": {
+      "website": "",
+      "facebook": "",
+      "youtube": "",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  {
+    "id": 7,
+    "imageUrl": "images/people/qari-muzzammil-hayat.png",
+    "name": {
+      "en": "Qari Muzzammil Hayat",
+      "ur": "قاری مزمل حیات",
+      "roman": "Qari Muzzammil Hayat"
+    },
+    "description": {
+      "en": "Indian naat khwan. Public event and video listings identify him as a performer at Natiya Mushairas; fuller biographical details were not found.",
+      "ur": "ہندوستانی نعت خواں۔ عوامی پروگراموں اور ویڈیو فہرستوں میں انہیں نعتیہ مشاعروں کے فنکار کے طور پر شناخت کیا گیا ہے؛ مزید سوانحی تفصیلات نہیں ملیں۔",
+      "roman": "Indian naat khwan. Public event and video listings identify him as a performer at Natiya Mushairas; fuller biographical details were not found."
+    },
+    "location": {
+      "en": "Bihar, India (described as from Bihar in event listings)",
+      "ur": "بہار، بھارت (پروگراموں میں بہار سے بتایا گیا ہے)",
+      "roman": "Bihar, India (described as from Bihar in event listings)"
+    },
+    "occupation": {
+      "en": "Qari, naat khwan",
+      "ur": "قاری، نعت خواں",
+      "roman": "Qari, naat khwan"
+    },
+    "urls": {
+      "website": "",
+      "facebook": "",
+      "youtube": "https://www.youtube.com/watch?v=yCDT0PhGnFU",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  {
+    "id": 8,
+    "imageUrl": "images/people/moulana-qazi-muzzammil.png",
+    "name": {
+      "en": "Moulana Qazi Muzzammil",
+      "ur": "مولانا قاضی مزمل",
+      "roman": "Moulana Qazi Muzzammil"
+    },
+    "description": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "location": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "occupation": {
+      "en": "Islamic scholar",
+      "ur": "عالمِ دین",
+      "roman": "Islamic scholar"
+    },
+    "urls": {
+      "website": "",
+      "facebook": "",
+      "youtube": "",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  {
+    "id": 9,
+    "imageUrl": "images/people/hafiz-yahya-jalees-lakhimpuri.jpg",
+    "name": {
+      "en": "Hafiz Yahya Jalees Lakhimpuri",
+      "ur": "حافظ یحییٰ جلیس لکھیم پوری",
+      "roman": "Hafiz Yahya Jalees Lakhimpuri"
+    },
+    "description": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "location": {
+      "en": "Lakhimpur, Uttar Pradesh, India (byname)",
+      "ur": "لکھیم پور، اتر پردیش، بھارت (نسبت کے مطابق)",
+      "roman": "Lakhimpur, Uttar Pradesh, India (byname)"
+    },
+    "occupation": {
+      "en": "Hafiz, naat khwan",
+      "ur": "حافظ، نعت خواں",
+      "roman": "Hafiz, naat khwan"
+    },
+    "urls": {
+      "website": "",
+      "facebook": "",
+      "youtube": "",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  {
+    "id": 10,
+    "imageUrl": "images/people/moulana-shahbuddin-zuber-ansari.png",
+    "name": {
+      "en": "Moulana Shahbuddin Zuber Ansari",
+      "ur": "مولانا شہاب الدین زبیر انصاری",
+      "roman": "Moulana Shahbuddin Zuber Ansari"
+    },
+    "description": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "location": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "occupation": {
+      "en": "Islamic scholar",
+      "ur": "عالمِ دین",
+      "roman": "Islamic scholar"
+    },
+    "urls": {
+      "website": "",
+      "facebook": "",
+      "youtube": "",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  {
+    "id": 11,
+    "imageUrl": "images/people/qari-zaheer-faizi.png",
+    "name": {
+      "en": "Qari Zaheer Faizi",
+      "ur": "قاری ظہیر فیضی",
+      "roman": "Qari Zaheer Faizi"
+    },
+    "description": {
+      "en": "Indian Qur'an reciter and naat khwan. Public channel listings use the name Qari Zaheer Faizi Kannauji and show naat performances; other biography details were not confirmed.",
+      "ur": "ہندوستانی قاری اور نعت خواں۔ عوامی چینل فہرستوں میں قاری ظہیر فیضی قنوجی کا نام اور نعت کی محافل موجود ہیں؛ دیگر سوانحی تفصیلات کی تصدیق نہیں ہوئی۔",
+      "roman": "Indian Qur'an reciter and naat khwan. Public channel listings use the name Qari Zaheer Faizi Kannauji and show naat performances; other biography details were not confirmed."
+    },
+    "location": {
+      "en": "Kannauj, Uttar Pradesh, India (byname)",
+      "ur": "قنوج، اتر پردیش، بھارت (نسبت کے مطابق)",
+      "roman": "Kannauj, Uttar Pradesh, India (byname)"
+    },
+    "occupation": {
+      "en": "Qari, naat khwan",
+      "ur": "قاری، نعت خواں",
+      "roman": "Qari, naat khwan"
+    },
+    "urls": {
+      "website": "",
+      "facebook": "",
+      "youtube": "https://www.youtube.com/@qarizaheerfaiziofficial-yo2fc",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  {
+    "id": 12,
+    "imageUrl": "images/people/qari-haidar-ali-seoharvi.png",
+    "name": {
+      "en": "Qari Haidar Ali Seoharvi",
+      "ur": "قاری حیدر علی سیوہاروی",
+      "roman": "Qari Haidar Ali Seoharvi"
+    },
+    "description": {
+      "en": "Indian Qur'an reciter and naat khwan. Public video listings identify him performing naat at events in the Seohara area; further biographical details were not found.",
+      "ur": "ہندوستانی قاری اور نعت خواں۔ عوامی ویڈیو فہرستوں میں انہیں سیوہارا کے علاقے میں نعت پڑھتے دکھایا گیا ہے؛ مزید سوانحی تفصیلات دستیاب نہیں ہوئیں۔",
+      "roman": "Indian Qur'an reciter and naat khwan. Public video listings identify him performing naat at events in the Seohara area; further biographical details were not found."
+    },
+    "location": {
+      "en": "Seohara, Uttar Pradesh, India (byname)",
+      "ur": "سیوہارا، اتر پردیش، بھارت (نسبت کے مطابق)",
+      "roman": "Seohara, Uttar Pradesh, India (byname)"
+    },
+    "occupation": {
+      "en": "Qari, naat khwan",
+      "ur": "قاری، نعت خواں",
+      "roman": "Qari, naat khwan"
+    },
+    "urls": {
+      "website": "",
+      "facebook": "",
+      "youtube": "https://www.youtube.com/watch?v=jtYIJ5lGZbI",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  {
+    "id": 13,
+    "imageUrl": "images/people/mufti-faheem-lalapuri.png",
+    "name": {
+      "en": "Mufti Faheem Lalapuri",
+      "ur": "مفتی فہیم لال پوری",
+      "roman": "Mufti Faheem Lalapuri"
+    },
+    "description": {
+      "en": "Public channel listing found under this name; reliable details about his life and work were not available in the sources reviewed.",
+      "ur": "اس نام سے عوامی چینل ملا؛ دیکھی گئی معلومات میں ان کی زندگی اور کام کے بارے میں قابلِ اعتماد تفصیلات دستیاب نہیں تھیں۔",
+      "roman": "Public channel listing found under this name; reliable details about his life and work were not available in the sources reviewed."
+    },
+    "location": {
+      "en": "Lalapur (byname)",
+      "ur": "لالاپور (نسبت کے مطابق)",
+      "roman": "Lalapur (byname)"
+    },
+    "occupation": {
+      "en": "Mufti",
+      "ur": "مفتی",
+      "roman": "Mufti"
+    },
+    "urls": {
+      "website": "",
+      "facebook": "",
+      "youtube": "https://www.youtube.com/channel/UCLGbBXEqeogotSbmd_5VrxQ",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  {
+    "id": 14,
+    "imageUrl": "images/people/janab-ahmed-hussain-sagar.png",
+    "name": {
+      "en": "Janab Ahmed Hussain Sagar",
+      "ur": "جناب احمد حسین ساگر",
+      "roman": "Janab Ahmed Hussain Sagar"
+    },
+    "description": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "location": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "occupation": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "urls": {
+      "website": "",
+      "facebook": "",
+      "youtube": "",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  {
+    "id": 15,
+    "imageUrl": "images/people/qari-tabish-rehan.png",
+    "name": {
+      "en": "Qari Tabish Rehan",
+      "ur": "قاری تابش ریحان",
+      "roman": "Qari Tabish Rehan"
+    },
+    "description": {
+      "en": "Public recordings and event listings identify Tabish Rehan as a performer of Urdu devotional poetry and naats; reliable biographical details were not found.",
+      "ur": "عوامی ریکارڈنگز اور پروگراموں میں تابش ریحان کو اردو نعتیہ اور عقیدتی کلام کے فنکار کے طور پر شناخت کیا گیا ہے؛ قابلِ اعتماد سوانحی تفصیلات نہیں ملیں۔",
+      "roman": "Public recordings and event listings identify Tabish Rehan as a performer of Urdu devotional poetry and naats; reliable biographical details were not found."
+    },
+    "location": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "occupation": {
+      "en": "Naat khwan",
+      "ur": "نعت خواں",
+      "roman": "Naat khwan"
+    },
+    "urls": {
+      "website": "",
+      "facebook": "",
+      "youtube": "",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  {
+    "id": 16,
+    "imageUrl": "images/people/janab-asad-azmi.png",
+    "name": {
+      "en": "Janab Asad Azmi",
+      "ur": "جناب اسد اعظمی",
+      "roman": "Janab Asad Azmi"
+    },
+    "description": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "location": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "occupation": {
+      "en": "",
+      "ur": "",
+      "roman": ""
+    },
+    "urls": {
+      "website": "",
+      "facebook": "",
+      "youtube": "",
+      "instagram": "",
+      "twitter": ""
+    }
+  }
+]
